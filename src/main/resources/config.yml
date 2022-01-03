@@ -1,0 +1,13 @@
+itemBlacklist:
+  - bedrock
+  - command_block
+  - barrier
+  - STRUCTURE_BLOCK
+  - STRUCTURE_VOID
+  - LIGHT
+  - CHAIN_COMMAND_BLOCK
+  - REPEATING_COMMAND_BLOCK
+  - COMMAND_BLOCK_MINECART
+  - SPAWNER
+entities:
+  - skeleton

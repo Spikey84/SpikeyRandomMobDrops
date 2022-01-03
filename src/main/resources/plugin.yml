@@ -1,0 +1,8 @@
+main: me.spikey.spikeyrandommobdrops.Main
+
+name: SpikeyRandomMobDrops
+version: 1.0
+api-version: 1.13
+
+commands:
+  togglerandomitems:
